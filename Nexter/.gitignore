@@ -10,8 +10,8 @@ bkp/
 
 # Arquivos de configuração com chaves secretas
 # O arquivo firebase-config.js será gerado dinamicamente no Vercel.
-# Esta linha garante que seu arquivo local com chaves não seja enviado para o Git.
-/js/firebase-config.js
+# Esta linha garante que o arquivo gerado com chaves não seja enviado para o Git.
+/firebase-config.js
 
 # Dependências de pacotes (caso use no futuro)
 node_modules/
